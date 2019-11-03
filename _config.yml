@@ -1,21 +1,21 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: hello@aramboa.com 
 baseurl: ""
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:dy/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Aramboa
+title: ARAMBOA
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://<moritz.réne.scharf>.io
+  This is Aramboa`s mind. Discover a collection of selected works on the edge of nature and culture. 
+url: http://<Aramboa>.io
 twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
     url: https://twitter.com/thomasvaeth
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: https://www.instagram.com/aramboamusic/
   - name: linkedin
     url: https://www.linkedin.com/in/thomasvaeth/
   - name: github
@@ -36,9 +36,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Aramboa
+    bio: Aramboa is the alias of Vienna-based producer Moritz René Scharf. Being involved in music since his early childhood coming from a jazz background on guitar, he started producing and performing electronic music quickly. After a first release experimenting on the edge of electronica/downtempo, shaped by lively collaborations, especially with singer Elena Shirin, international festival appearances in Europe, the U.S. and South-Africa followed. Now he is off for presenting his latest studio-works where dreamy/artificial soundscapes and a catchy live brass-section collide into a beatdriven euphoric dancefloor experience.
+    url: https://www.instagram.com/aramboamusic/
 
 # Pagination settings
 pagination:
